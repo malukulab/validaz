@@ -9,4 +9,5 @@ Terima kasih telah meluangkan waktu dan tenaga untuk berkontribusi pada pustaka 
 
 ## Terima kasih 😻
 ![Maluku Lab](malukulab.png)
+
 Terima kasih salam dari kita semua [Maluku Lab](#).
